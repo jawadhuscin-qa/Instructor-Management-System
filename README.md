@@ -1,4 +1,4 @@
-# dashboard-recruiter-cypress
+# Instructor Management System Automation Scripts in Cypress
 This application contrains cypress test cases to automate testing of dashboard-recruiter site.
 
 
