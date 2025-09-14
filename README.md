@@ -1,5 +1,5 @@
 # Instructor Management System Automation Scripts in Cypress
-This application contrains cypress test cases to automate testing of dashboard-recruiter site.
+This application contrains cypress test cases to automate testing of Instructor Management System
 
 
 # install dependencies
